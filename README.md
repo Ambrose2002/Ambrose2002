@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ambrose!
-👩🏻‍💻 I'm passionate about **software development**, **astrophotography**, and **innovative education** through technology.
-👩🏻‍🎓 Studies Comuputer Science and Mathematics at Cornell University in New York<br/>
+👩🏻‍💻 I'm passionate about **software development**, **astrophotography**, and **innovative education** through technology.<br/>
+👩🏻‍🎓 I study Comuputer Science and Mathematics at Cornell University in New York<br/>
 🔭 **Amateur Astrophotographer** capturing the beauty of the night sky!
 💭 Currently learning Swift and C++!<br/>
 
