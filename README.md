@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ambrose!
 👩🏻‍💻 I'm passionate about **software development**, **astrophotography**, and **innovative education** through technology.<br/>
 👩🏻‍🎓 I study Comuputer Science and Mathematics at Cornell University in New York<br/>
-🔭 **Amateur Astrophotographer** capturing the beauty of the night sky!
+🔭 **Amateur Astrophotographer** capturing the beauty of the night sky!<br/>
 💭 Currently learning Swift and C++!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
