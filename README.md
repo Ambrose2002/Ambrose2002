@@ -43,7 +43,7 @@ Here are some of my favorite astrophotography shots:
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github.com/user-attachments/assets/c4a1445e-4f1c-4aaf-9e9f-71fc9ae88bb6" alt="Andromeda Galaxy" width="300px" height="270px" />
+  <img src="https://github.com/user-attachments/assets/94c4c0b6-f4a5-40af-8c84-95d1fa87b21a" alt="Andromeda Galaxy" width="300px" height="270px" />
   <img src="https://github.com/user-attachments/assets/fa66932a-7de2-48e8-9b65-610cac70ac12" alt="Wanning Gibbous Moon" width="300px" height="270px"/>
 
 </div>
