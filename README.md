@@ -1,4 +1,14 @@
 # 👋 Hi, I'm Ambrose!
+
+## Personal Mission Statement
+```
+As a software engineer, I am committed to creating precise,
+efficient solutions that enhance my customers’ lives through automation and innovation.
+I prioritize continuous learning, personal growth, and the well-being of my body and mind.
+Above all, I value meaningful relationships, supporting my friends
+and fostering connections with integrity and care.
+```
+
 👩🏻‍💻 I'm passionate about **software development**, **astrophotography**, and **innovative education** through technology.<br/>
 👩🏻‍🎓 I study Comuputer Science and Mathematics at Cornell University in New York<br/>
 🔭 **Amateur Astrophotographer** capturing the beauty of the night sky!<br/>
