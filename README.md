@@ -44,7 +44,7 @@ and fostering connections with integrity and care.
 - Diving into new concepts in **computer science** and **physics**.
 
 ### ⚡ Fun Facts
-- I'm an **amateur astrophotographer** capturing the beauty of the night sky.
+- I'm an **amateur astrophotographer**.
 - I love playing **soccer** and am an avid fan of soccer games.
 
 ### 🌌 Astrophotography
