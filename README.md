@@ -9,7 +9,7 @@ Above all, I value meaningful relationships, supporting my friends
 and fostering connections with integrity and care.
 ```
 
-👩🏻‍💻 I'm passionate about **software development**, **astrophotography**, and **innovative education** through technology.<br/>
+👩🏻‍💻 I'm passionate about **software development** and **astrophotography**<br/>
 👩🏻‍🎓 I study Comuputer Science and Mathematics at Cornell University in New York<br/>
 🔭 **Amateur Astrophotographer** capturing the beauty of the night sky!<br/>
 💭 Currently learning Swift and C++!<br/>
