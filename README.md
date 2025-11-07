@@ -10,9 +10,9 @@ and fostering connections with integrity and care.
 ```
 
 👩🏻‍💻 I'm passionate about **software development** and **astrophotography**<br/>
-👩🏻‍🎓 I study Comuputer Science and Mathematics at Cornell University in New York<br/>
+👩🏻‍🎓 I study Comuputer Science and Data Science at Cornell University in New York.<br/>
 🔭 **Amateur Astrophotographer** capturing the beauty of the night sky!<br/>
-💭 Currently learning OCaml and teaching myself to play the piano.<br/>
+💭 Currently learning OCaml and teaching myself music theory and how to play the piano.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Ambrose2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
@@ -46,12 +46,12 @@ and fostering connections with integrity and care.
 - Exploring **C++** to deepen my understanding of computer science fundamentals.
   
 ### 🌱 What I'm Learning
-- Developing proficiency in **Swift** for iOS development.
-- Diving into new concepts in **computer science** and **physics**.
+- Developing proficiency in **OCaml** for **functional programming**.
+- **Music theory** and how to play the **piano**.
 
 ### ⚡ Fun Facts
 - I'm an **amateur astrophotographer**.
-- I love playing **soccer** and am an avid fan of soccer games.
+- I love playing **soccer** and I'm a big fan of EA's FC.
 
 ### 🌌 Astrophotography
 
@@ -72,7 +72,6 @@ Here are some of my favorite astrophotography shots:
 - **Email**: [ambrose2002blay@gmail.com](mailto:ambrose2002blay@gmail.com)
 - **LinkedIn**: [ambrose-blay](https://www.linkedin.com/in/ambrose-blay/)
 - **Instagram**: [ambrose_blay](https://www.instagram.com/ambrose_blay)
-- **Personal Website**: [ambroseblay.dev](https://ambroseblay.dev)
 
 ### 😄 Pronouns
 He/Him
