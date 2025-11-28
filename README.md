@@ -40,15 +40,6 @@ and fostering connections with integrity and care.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔭 What I'm Working On
-- **Edify**: An edutech startup aimed at revolutionizing education through innovative technology.
-- Building an iOS app while learning **Swift**.
-- Exploring **C++** to deepen my understanding of computer science fundamentals.
-  
-### 🌱 What I'm Learning
-- Developing proficiency in **OCaml** for **functional programming**.
-- **Music theory** and how to play the **piano**.
-
 ### ⚡ Fun Facts
 - I'm an **amateur astrophotographer**.
 - I love playing **soccer** and I'm a big fan of EA's FC.
