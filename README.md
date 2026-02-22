@@ -12,7 +12,7 @@ and fostering connections with integrity and care.
 👩🏻‍💻 I'm passionate about **software development** and **astrophotography**<br/>
 👩🏻‍🎓 I study Comuputer Science and Data Science at Cornell University in New York.<br/>
 🔭 **Amateur Astrophotographer** capturing the beauty of the night sky!<br/>
-💭 Currently learning OCaml and teaching myself music theory and how to play the piano.<br/>
+💭 Currently building **Fitr**, an iOS app for tracking workouts.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Ambrose2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
